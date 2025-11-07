@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Tanvir Mahtab 👋
 
-<!--
-**mahtab49/mahtab49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
+- 🔭 I’m currently working on JAVA projects.
+- 🌱 I’m learning more about web development & backend development.
+- 💬 Ask me about Python, C++,java or Machine Learning.
+- 📫 How to reach me: [email@example.com](mailto:tanvirmahtab7190@gmail.com)
 
-Here are some ideas to get you started:
+## My Projects:
+- [ML Project](https://github.com/mahtab49/ml_project)
+- [Exam App](https://github.com/mahtab49/exam_app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahtab49&show_icons=true&hide_title=true)
