@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on JAVA projects.
 - 🌱 I’m learning more about web development & backend development.
 - 💬 Ask me about Python, C++,java or Machine Learning.
-- 📫 How to reach me: [email@example.com](mailto:tanvirmahtab7190@gmail.com)
+- 📫 How to reach me: [Tanvir Mahtab](mailto:tanvirmahtab7190@gmail.com)
 
 ## My Projects:
 - [ML Project](https://github.com/mahtab49/ml_project)
